@@ -1,0 +1,5 @@
+/* Additional App-specific styles */
+.app {
+  width: 100%;
+  max-width: 480px;
+}
